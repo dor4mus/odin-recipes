@@ -51,7 +51,6 @@ img {
 #desc p {
     background-color: #3D3D3D;
 }
-
 p {
     margin-top: 8px;
 }
@@ -81,10 +80,9 @@ ul {
     background-color: #3D3D3D
 }
 
-
 #steps {
     background-color: #3D3D3D;  
-    font-size: 15px;
+    font-size: 14px;
     padding: 20px;
     padding-left: 35px;
     border-radius: 25px;
