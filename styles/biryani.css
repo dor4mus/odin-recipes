@@ -32,6 +32,7 @@ img {
 }
 
 #desc {
+    background-color: #3D3D3D;
     border-radius: 25px;
     margin: 30px;
     margin-left: 450px;
@@ -42,9 +43,14 @@ img {
 }
 
 #desc h2 {
+    background-color: #3D3D3D;
     text-decoration: underline;
     font-size: 30px;
     padding-bottom: 10px;
+}
+
+#desc p {
+    background-color: #3D3D3D;
 }
 
 p {
@@ -56,6 +62,7 @@ ul {
 }
 
 #ingredients {
+    background-color: #3D3D3D;
     border-radius: 25px;
     text-align: center;
     outline: 2px solid #8C8C8C;
@@ -65,13 +72,19 @@ ul {
 }
 
 #ingredients h2 {
+    background-color: #3D3D3D;
     font-size: 30px;
     padding-bottom: 10px;
     text-decoration: underline;
 }
 
+#ingredients li {
+    background-color: #3D3D3D
+}
+
 
 #steps {
+    background-color: #3D3D3D;  
     font-size: 15px;
     padding: 20px;
     padding-left: 35px;
@@ -82,7 +95,13 @@ ul {
 }
 
 #steps h2 {
+    background-color: #3D3D3D;
     font-size: 30px;
     padding-bottom: 10px;
     text-decoration: underline;
+}
+
+#steps li {
+    background-color: #3D3D3D;
+
 }
